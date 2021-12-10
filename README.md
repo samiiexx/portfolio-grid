@@ -13,7 +13,7 @@ Bootstrap test project for Portfolio Grid.
 
 ## Install
 ```
-    $ git clone git@github.com:starboxtech/sam-portfolio-grid.git main
+    $ git clone git@github.com:starboxtech/portfolio-grid.git main
     $ cd main
 ```
 
